@@ -100,7 +100,7 @@ AntiLava.CanCollide = false
                     PremiumOnly = false
                 })
 
-Tab:AddLabel("Message Guy that exists#1915 if you have issues")
+Tab:AddLabel("Message Guy that .null#3847 if you have issues")
 
 Tab:AddButton({
 	Name = "Infinite Yield",
