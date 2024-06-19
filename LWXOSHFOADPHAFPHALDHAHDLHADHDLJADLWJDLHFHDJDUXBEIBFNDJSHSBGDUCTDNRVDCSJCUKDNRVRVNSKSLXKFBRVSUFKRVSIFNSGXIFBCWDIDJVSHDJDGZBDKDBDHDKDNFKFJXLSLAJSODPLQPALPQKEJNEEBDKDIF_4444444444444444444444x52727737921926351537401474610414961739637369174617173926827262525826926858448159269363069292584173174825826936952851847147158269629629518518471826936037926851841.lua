@@ -798,7 +798,7 @@ elseif game.PlaceId == 11520107397 then
                     PremiumOnly = false
                 })
 
-Tab:AddLabel("Message Guy that exists#1915 if you have issues")
+Tab:AddLabel("Message .null#3847 if you have issues")
 
 Tab:AddButton({
 	Name = "Infinite Yield",
@@ -1831,7 +1831,7 @@ elseif game.PlaceId == 11828384869 then
                     PremiumOnly = false
                 })
 
-Tab:AddLabel("Message Guy that exists#1915 if you have issues")
+Tab:AddLabel("Message .null#3847 if you have issues")
 
 Tab:AddButton({
 	Name = "Infinite Yield",
@@ -2275,7 +2275,7 @@ end
                     PremiumOnly = false
                 })
 
-Tab:AddLabel("Message Guy that exists#1915 if you have issues")
+Tab:AddLabel("Message .null#3847 if you have issues")
 
 Tab:AddButton({
 	Name = "Infinite Yield",
